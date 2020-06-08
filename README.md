@@ -7,7 +7,7 @@ This folder mainly contains the code of extracting many kinds of GLCM features b
     VSCode  
     Python 3.7  
 ## 实验结果  
-![image](https://github.com/LinghuiXia/GLCM/raw/master/GLCM/GLCM_Features.png)
+![image](https://github.com/LinghuiXia/GLCM/blob/master/GLCM/Result/GLCM_Features.png)
 ## 注释  
     后续代码讲解会上传至Bilili。
     我的Bilili：https://space.bilibili.com/315476253
