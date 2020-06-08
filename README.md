@@ -7,7 +7,7 @@ This folder mainly contains the code of extracting many kinds of GLCM features b
     VSCode  
     Python 3.7  
 ## 实验结果  
-![image](Result/GLCM_Features.png)
+![](./Result/GLCM_Features.png)
 ## 注释  
     后续代码讲解会上传至Bilili。
     我的Bilili：https://space.bilibili.com/315476253
